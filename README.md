@@ -1,0 +1,1 @@
+# Adversarial-Training-of-Trash-Image-Classfication----Team-W.H.S.H
